@@ -1,7 +1,6 @@
 # K4ppa
 [![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/thespacetm)
-[![GitHub followers](https://img.shields.io/github/followers/quazEx?label=Follow&style=social)](https://github.com/quazEx/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-lorenzo.carlo.sasso@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorenzo.carlo.sasso@gmail.com)](mailto:lorenzo.carlo.sasso@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/K4pparella?label=Follow&style=social)](https://github.com/quazEx/?tab=follow)
 ---
 
 ## Hi there 👋,
