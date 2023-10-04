@@ -29,4 +29,4 @@
 
 - 😉 Contact me on discord: **@kapparella**
 
-![quazEx's stats](https://github-readme-stats.vercel.app/api?username=quazEx&show_icons=true)
+![K4pparella's stats](https://github-readme-stats.vercel.app/api?username=K4pparella&show_icons=true)
