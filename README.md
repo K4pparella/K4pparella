@@ -24,7 +24,7 @@
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/Kapparellozzo">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.instagram.com/nonsonokappa/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/instagram.png" width="30px" alt="Twitter"></a>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Finstagram-pixel-logo-icon-free--597712181804991109%2F&psig=AOvVaw2mBOWPsgSQw9oTr1OeWSEL&ust=1731578468131000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCO5MSG2YkDFQAAAAAdAAAAABAJ" width="30px" alt="Instagram"></a>
   &nbsp; 
   &nbsp;
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
