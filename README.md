@@ -1,32 +1,35 @@
-# K4ppa
-[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/thespacetm)
-[![GitHub followers](https://img.shields.io/github/followers/K4pparella?label=Follow&style=social)](https://github.com/quazEx/?tab=follow)
----
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b>Kappa</b>.
+    <br>I'm an aspiring Software engeneer from Italy! This is my private account where I will post my private projects!.<br>
 
-## Hi there 👋,
+</samp>
 
-### Hi, I am Kappa I am 18 and an italian developer!!
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
--------
-## My programming languages
-<p>
-<img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white">
-<img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> <br>
-<img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
-<img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> <br>
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"> <br>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
 </p>
 
-## 🧐 About
 
-- 🏄‍ I love help and get helped by the community
-- 🔦 Developer of The Census framework, a modding tool for SCP:Escape Together
-- 😊 Very friendly person, if you need help or something contact me!!
+<details align="center">
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Contact me!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
-- 😉 Contact me on discord: **@kapparella**
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-![K4pparella's stats](https://github-readme-stats.vercel.app/api?username=K4pparella&show_icons=true)
+
+<p align="center">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/Kapparellozzo">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.instagram.com/nonsonokappa/">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/instagram.png" width="30px" alt="Twitter"></a>
+  &nbsp; 
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
+</p> 
+
+
+</samp>
+</details>
