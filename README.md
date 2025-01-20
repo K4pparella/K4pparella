@@ -23,7 +23,7 @@
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/Kapparellozzo">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.instagram.com/nonsonokappa/">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.instagram.com/nonsonokapparella/">
   <p>   </p><img src="https://i.pinimg.com/originals/b6/2f/6f/b62f6f913571a0254f4e4f636838977f.png" width="30px" alt="Instagram"></a>
   &nbsp; 
   &nbsp;
